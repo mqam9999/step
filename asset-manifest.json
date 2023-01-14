@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/step/static/css/main.b8bfff4e.css",
+    "main.js": "/step/static/js/main.6325525a.js",
+    "static/js/787.ec704a7a.chunk.js": "/step/static/js/787.ec704a7a.chunk.js",
+    "static/media/logo.png": "/step/static/media/logo.d4284f699cb17443ca61.png",
+    "static/media/Apartcard6.jpg": "/step/static/media/Apartcard6.14a2adbe32f295eb74d5.jpg",
+    "static/media/card3.jpg": "/step/static/media/card3.14a2adbe32f295eb74d5.jpg",
+    "static/media/find.jpg": "/step/static/media/find.c647e2218b8b77929bcf.jpg",
+    "static/media/Cars.jpg": "/step/static/media/Cars.f918f68a75573b83a37c.jpg",
+    "static/media/Apartment.jpg": "/step/static/media/Apartment.37c75500280dfc88d7db.jpg",
+    "static/media/Apartcard5.jpg": "/step/static/media/Apartcard5.7014c10c1a11ec2f8fc2.jpg",
+    "static/media/card6.jpg": "/step/static/media/card6.7014c10c1a11ec2f8fc2.jpg",
+    "static/media/card9.jpg": "/step/static/media/card9.7014c10c1a11ec2f8fc2.jpg",
+    "static/media/FoodLifes.jpg": "/step/static/media/FoodLifes.13b245f9fc93e4afa878.jpg",
+    "static/media/Travelings.jpg": "/step/static/media/Travelings.29756db731e8df1712fa.jpg",
+    "static/media/Apartcard4.jpg": "/step/static/media/Apartcard4.30f0af16f628a7c8bfdf.jpg",
+    "static/media/card2.jpg": "/step/static/media/card2.30f0af16f628a7c8bfdf.jpg",
+    "static/media/card8.jpg": "/step/static/media/card8.30f0af16f628a7c8bfdf.jpg",
+    "static/media/card1.jpg": "/step/static/media/card1.519d463902a3e8284291.jpg",
+    "static/media/Shoppings.jpg": "/step/static/media/Shoppings.6cc3290c2c094483048d.jpg",
+    "static/media/card5.jpg": "/step/static/media/card5.c68f076f89e835683db1.jpg",
+    "static/media/card7.jpg": "/step/static/media/card7.c68f076f89e835683db1.jpg",
+    "static/media/Apartcard3.jpg": "/step/static/media/Apartcard3.cc44793bb84008123602.jpg",
+    "static/media/card4.jpg": "/step/static/media/card4.cc44793bb84008123602.jpg",
+    "static/media/Business.jpg": "/step/static/media/Business.a149c4ac277d50b8776e.jpg",
+    "index.html": "/step/index.html",
+    "main.b8bfff4e.css.map": "/step/static/css/main.b8bfff4e.css.map",
+    "main.6325525a.js.map": "/step/static/js/main.6325525a.js.map",
+    "787.ec704a7a.chunk.js.map": "/step/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8bfff4e.css",
+    "static/js/main.6325525a.js"
+  ]
+}
